@@ -1,2 +1,3 @@
 ssd
 hhd
+CPU
